@@ -4,14 +4,10 @@ Este é meu primeiro projeto desenvolvido durante o módulo de HTML/CSS do curso
 
 ### Tecnologias utilizadas:
 <div>
-    <li>
-        <ul>
-            HTML
-        </ul>
-        <ul>
-            CSS
-        </ul>
-    </li>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+    </ul>
 </div>
 
 
