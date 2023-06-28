@@ -10,4 +10,8 @@ Este é meu primeiro projeto desenvolvido durante o módulo de HTML/CSS do curso
     </ul>
 </div>
 
+### Pré-visualização
+![image](https://github.com/joaovitordias13/Primeiro-Repositorio/assets/116570330/d9a3ff57-19e2-42c5-b576-dd233d2c5aa7)
+
+
 
