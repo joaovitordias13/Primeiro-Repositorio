@@ -11,7 +11,8 @@ Este é meu primeiro projeto desenvolvido durante o módulo de HTML/CSS do curso
 </div>
 
 ### Pré-visualização
-![image](https://github.com/joaovitordias13/Primeiro-Repositorio/assets/116570330/d9a3ff57-19e2-42c5-b576-dd233d2c5aa7)
+![image](https://github.com/joaovitordias13/Primeiro-Repositorio/assets/116570330/eba8832d-86c4-4561-8a48-626359a7df59)
+
 
 
 
